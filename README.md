@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nopnarong and I'm a Deverloper, from Kmitl</h2>
+<h2 align="left">Hi 👋! My name is Nopnarong and I'm a Deverloper, From Kmitl</h2>
 
 ###
 
@@ -30,7 +30,10 @@
 </div>
 
 ###
-
+<div>
+  <img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" />
+</div>
+###
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -44,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" />
+<img src="https://raw.githubusercontent.com/MiraiHara16/MiraiHara16/output/snake.svg" alt="Snake animation" />
 
 ###
