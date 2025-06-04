@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/658f8ec6-9ab2-407e-bff4-c3e021c4ba6a)<h2 align="left">Hi 👋! My name is Nopnarong and I'm a Deverloper, from Kmitl</h2>
+<h2 align="left">Hi 👋! My name is Nopnarong and I'm a Deverloper, from Kmitl</h2>
 
 ###
 
