@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/originals/9e/74/1b/9e741b31bade0f724df4347256dd78e4.gif)"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/originals/9e/74/1b/9e741b31bade0f724df4347256dd78e4.gif"  />
 </div>
 
 ###
