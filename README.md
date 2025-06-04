@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nopnarong and I'm a Deverloper, from Kmitl</h2>
+![image](https://github.com/user-attachments/assets/658f8ec6-9ab2-407e-bff4-c3e021c4ba6a)<h2 align="left">Hi 👋! My name is Nopnarong and I'm a Deverloper, from Kmitl</h2>
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" />
 
 ###
