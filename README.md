@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/2UkHz5-9U6UAAAAi/kaguya-sama-love-is-war-anime.gif"  />
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
