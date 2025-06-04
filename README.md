@@ -65,6 +65,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MiraiHara16/MiraiHara16/output/snake.svg" alt="Snake animation" />
-
-###
