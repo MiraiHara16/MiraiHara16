@@ -14,21 +14,19 @@
 
 ###
 <h3 align="left">My Skill</h3>
-<p>Frontend: React, HTML5, CSS3, JavaScript
+<p>💻Frontend: React, HTML5, CSS3, JavaScript
 
-Backend: Node.js, ASP.NET Core, GraphQL
+💻 Backend: Node.js, ASP.NET Core, GraphQL
 
-Languages: C, C#, Python, JavaScript
+💡 Languages: C, C#, Python, JavaScript
 
-Game Dev: Unity (C#)
+🕹 Game Dev: Unity (C#)
 
-IoT / Embedded: Arduino (C/C++)
+⚙️ IoT / Embedded: Arduino (C/C++)
 
-Cloud & DevOps: Microsoft Azure
+♞ Cloud & DevOps: Microsoft Azure
 
-Design: Figma
-
-Database: Neo4j (Graph DB), JSON (NoSQL-style)
+♜ Database: Neo4j (Graph DB), JSON (NoSQL-style)
 </p>p
 
 <div align="center">
